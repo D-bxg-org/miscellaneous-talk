@@ -1,7 +1,8 @@
 # Table of contents
 
 * [杂谈](README.md)
-* [字体](zi-ti/README.md)
-  * [中文少见有趣字](zi-ti/zhong-wen-shao-jian-you-qu-zi.md)
+* [字体](zi-ti-1/README.md)
+  * [中文少见有趣字](zi-ti-1/zhong-wen-shao-jian-you-qu-zi.md)
+  * [英文字体](zi-ti-1/zi-ti.md)
 * [src href ref url](src-href-ref-url.md)
 
