@@ -7,8 +7,8 @@
 * [src href ref url](src-href-ref-url.md)
 * [一些缩写解释](yi-xie-suo-xie-jie-shi.md)
 * [九类艺术](jiu-lei-yi-shu/README.md)
-  * [书法](jiu-lei-yi-shu/shu-fa.md)
-  * [写作](jiu-lei-yi-shu/xie-zuo.md)
+  * [写作](jiu-lei-yi-shu/xie-zuo/README.md)
+    * [书法](jiu-lei-yi-shu/xie-zuo/shu-fa.md)
 * [命名问题](ming-ming-wen-ti.md)
 * [文件夹分类](wen-jian-jia-fen-lei.md)
 

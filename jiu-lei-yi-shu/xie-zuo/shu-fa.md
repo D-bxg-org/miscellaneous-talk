@@ -44,7 +44,7 @@
 
 ### 2.1 永字八法
 
-![](../.gitbook/assets/shu-fa-211.png)
+![](../../.gitbook/assets/shu-fa-211.png)
 
 ### 2.2 五势
 
