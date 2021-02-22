@@ -1,0 +1,37 @@
+# 前后端英文名称
+
+> 参考
+>
+> [https://blog.csdn.net/duanluan/article/details/86415985](https://blog.csdn.net/duanluan/article/details/86415985)
+
+#### 网友给出了以下几种回答：
+
+1. client side、server side
+2. front side、back side
+3. front end、back end
+4. foreground、background
+5. user Interface、manage interface
+
+#### 我对于这些英文的理解：
+
+1. client side 的中文翻译为客户端，server side 的中文翻译为服务器端，此处不适用；
+2. front side 的中文翻译为正面，back side 的中文翻译为反面，有相近之意，但仍然不适用；
+3. front end 的中文翻译为前端，back end 的中文翻译为后端，虽然 front end 的英文解释是向前或突出的一面，back end 的英文解释是一个物体的侧面相反的，但是在维基百科的 “[前端和后端](https://zh.wikipedia.org/wiki/%E5%89%8D%E7%AB%AF%E5%92%8C%E5%90%8E%E7%AB%AF)”（没有列出任何参考或来源）中将它们作为了英文翻译；
+
+> 前端（英语：front-end）和后端（英语：back-end）是描述进程开始和结束的通用词汇。前端作用于采集输入信息，后端进行处理。计算机程序的界面样式，视觉呈现属于前端。
+
+1. foreground 的中文翻译是前景，background 的中文翻译是（画等的）背景，但是 foreground 和 background 的英文解释都是（计算机科学）在图形化的用户界面中，图标和窗口出现的屏幕区域，适用于前端的前景和背景，此处不适用；
+2. user interface 的中文翻译是用户界面，就是我们一直说的 UI 的全称，manage interface 的中文翻译是管理界面，user interface 的英文解释是（计算机科学）为用户（通常在计算机监视器上）显示的程序，该程序允许用户与系统进行交互，包括了前台和后台，此处不适用。
+
+#### 总结：
+
+前端和后端的英文：**front end**、**back end**；
+
+那前台和后台的英文呢？前台是普通用户访问的页面，后台是管理员管理网站的页面（此处为我的理解），没有较短英文翻译，所以我考虑了之后决定使用 **forestage** 和 **backstage** 这两个单词，forestage 的中文翻译是前级、前台、舞台幕布以前的部分，backstage（adv.） 的中文翻译是后级、后台、在幕后，相对其它英文这个解释个人感觉还是比较好的，幕后管理，幕前展示。
+
+但是是否要使用这两个单词作为前台和后台的英文我还是有点犹豫的，我认为可以在单独写前台或者后台的时候使用，而在说道网站前台和网站后台等地方的时候使用 **Site Reception** 和 **Website background**。
+
+具体使用看个人喜好。
+
+翻译来自百度翻译和谷歌翻译。
+
