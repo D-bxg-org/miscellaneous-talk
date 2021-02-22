@@ -13,4 +13,5 @@
     * [书法](jiu-lei-yi-shu/xie-zuo/shu-fa.md)
 * [命名问题](ming-ming-wen-ti.md)
 * [文件夹分类](wen-jian-jia-fen-lei.md)
+* [论文格式](lun-wen-ge-shi.md)
 
