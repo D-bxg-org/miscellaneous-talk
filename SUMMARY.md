@@ -19,4 +19,5 @@
 * [前端网站汇总](qian-duan-wang-zhan-hui-zong.md)
 * [前后端英文名称](qian-hou-duan-ying-wen-ming-cheng.md)
 * [怎么穿衣服](zen-me-chuan-yi-fu.md)
+* [一些名词的解释（概念、定义、性质）](yi-xie-ming-ci-de-jie-shi-gai-nian-ding-yi-xing-zhi.md)
 
