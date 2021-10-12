@@ -1,4 +1,3 @@
 # 写作
 
-![](../../.gitbook/assets/xie-zuo-.jpeg)
-
+![](../../.gitbook/assets/写作.jpeg)

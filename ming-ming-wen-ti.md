@@ -4,9 +4,9 @@
 
 > 参考：
 >
-> [https://zh.wikipedia.org/wiki/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99\_\(%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1\)](https://zh.wikipedia.org/wiki/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99_%28%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%29)
+> [https://zh.wikipedia.org/wiki/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99\_(%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)](https://zh.wikipedia.org/wiki/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99\_\(%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1\))
 >
-> [https://blog.csdn.net/See\_Star/article/details/102624388](https://blog.csdn.net/See_Star/article/details/102624388)
+> [https://blog.csdn.net/See_Star/article/details/102624388](https://blog.csdn.net/See_Star/article/details/102624388)
 
 ## 1 小驼峰
 
@@ -34,7 +34,7 @@ a-snake-name
 
 ## 4 下划线
 
-use\_underline
+use_underline
 
 ## 5 匈牙利
 
@@ -45,4 +45,3 @@ use\_underline
 ## 7 私有变量
 
 在变量或方法名前加一个下划线。
-
