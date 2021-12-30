@@ -23,3 +23,4 @@
 * [前后端英文名称](qian-hou-duan-ying-wen-ming-cheng.md)
 * [一些名词的解释（概念、定义、性质）](yi-xie-ming-ci-de-jie-shi-gai-nian-ding-yi-xing-zhi.md)
 * [不小于、不超过](bu-xiao-yu-bu-chao-guo.md)
+* [数学](shu-xue.md)
