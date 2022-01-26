@@ -141,3 +141,5 @@ A是XXX，是XXX，是XXX等等。
 ## 作用
 
 作用通过性质体现出来，每个性质有各自的作用
+
+{% embed url="https://www.zhihu.com/question/484057801/answer/2318856435" %}
