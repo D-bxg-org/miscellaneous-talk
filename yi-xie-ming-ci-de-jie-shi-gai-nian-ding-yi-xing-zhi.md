@@ -156,4 +156,10 @@ A是XXX，是XXX，是XXX等等。
 
 ## 基本
 
+## 目的
+
+出发点
+
+总抓手
+
 {% embed url="https://www.zhihu.com/question/484057801/answer/2318856435" %}
