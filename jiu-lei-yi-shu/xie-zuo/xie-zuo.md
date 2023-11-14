@@ -1,3 +1,7 @@
 # 写作
 
-![](../../.gitbook/assets/写作.jpeg)
+<div align="center">
+
+<img src="../../.gitbook/assets/写作.jpeg" alt="">
+
+</div>
